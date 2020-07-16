@@ -1,0 +1,45 @@
+body
+{
+	border-style: double;
+	border-color: mediumorchid;
+	color: mediumorchid;
+	font-size: 25;
+	background-color: ghostwhite;
+	padding: 25;
+	text-align: center;
+}
+
+hr
+{
+	border-style: solid;
+	border-bottom: none;
+	color: mediumorchid;
+}
+
+div
+{
+	display: inline-block;
+	background-color: lavender;
+	border-style: solid;
+	border-width: thin;
+	border-color: mediumorchid;
+	padding: 25;
+	padding-bottom: 20;
+}
+
+img
+{
+	width: 250;
+	border-style: solid;
+	border-color: mediumorchid;
+	border-width: thin;
+}
+
+embed
+{
+	width: 250;
+	height: 444;
+	border-style: solid;
+	border-color: mediumorchid;
+	border-width: thin;
+}
